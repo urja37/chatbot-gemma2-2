@@ -29,8 +29,8 @@ The chatbot remembers conversation history during the session and responds intel
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/urja37/chatbot-gemma2-2.git
+   cd chatbot-gemma2-2
    ```
 
 2. **Install Python dependencies**
